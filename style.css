@@ -1,0 +1,125 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #EC4C7A;
+    margin: 0;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 500;
+    margin: 0;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    margin: 0;
+}
+
+p {
+    color: dimgray;
+}
+
+section {
+    height: 500px;
+}
+
+.header-area {
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 150px 0 150px 0;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+}
+
+.intro {
+    padding: 150px 0px 0px 150px;
+}
+
+.half-width img {
+    width:80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: #EC4C7A;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+}
+
+.biography-area {
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 125%;
+    padding: 150px 0px;
+}
+
+.bio-description {
+    padding: 150px 0 0 25px;
+}
+
+.latest-work-area {
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.latest-work-area h2 {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.showcase {
+    margin-left: 250px;
+}
+
+.latest-work-area img {
+    width: 20%;
+    float: left;
+    padding-left: 25px;
+}
+
+.client-feedback-area {
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 75%;
+    text-align: center;
+    
+}
+
+.client-feedback-area h2 {
+    padding: 75px 0;
+}
+
+.contact-box {
+    background-color: #EC4C7A;
+    padding: 30px 200px;
+    border-radius: 5px;
+    color: white;
+    display: inline-block;
+    clear: both;
+}
+
+.contact-box p {
+    color: white;
+    font-size: 12px;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+    padding: 150px 0 50px 0;
+}
